@@ -27,7 +27,7 @@ If you're building a new product, scaling an existing platform, modernizing your
 
 ### 📫 Get in touch
 
-- **LinkedIn:** [Rubén Resino](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Rubén Resino](https://www.linkedin.com/in/rresino)
 - **X / Twitter:** [@rresino](https://twitter.com/rresino)
 
 > **Have a technical challenge or a project in mind? Send me a message on LinkedIn and let's discuss how I can help.**
